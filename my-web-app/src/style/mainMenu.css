@@ -1,0 +1,19 @@
+.mainMenuContainer {
+  position: relative;
+  width: 352px;
+  max-height: calc(100% - 32px);
+  top: 16px;
+  left: 16px;
+  border-radius: 16px;
+  background-color: white;
+}
+
+.searchBlock {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.departments {
+  height: calc(100% - 32px);
+}
